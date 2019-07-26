@@ -1,0 +1,4 @@
+name: 'language_tour_functions'
+
+dependencies:
+  meta: 1.1.7

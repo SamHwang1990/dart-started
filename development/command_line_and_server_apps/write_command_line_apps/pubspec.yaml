@@ -1,0 +1,4 @@
+name: 'write_command_line_apps'
+
+dependencies:
+  args: 1.5.2
